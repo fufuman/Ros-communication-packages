@@ -1,1 +1,1 @@
-ROS communication packages
+publisher-subscriber and service client comm. 
