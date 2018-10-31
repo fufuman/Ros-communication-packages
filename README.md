@@ -1,1 +1,1 @@
-publisher-subscriber and service client comm. 
+publisher-subscriber and service-client comm. 
